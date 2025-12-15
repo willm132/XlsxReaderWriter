@@ -9,7 +9,7 @@
    See the accompanying LICENSE file for the full text of the license.
 */
 
-
+#include "MinizipPrefix.h"
 #include "mz.h"
 
 #include <CoreFoundation/CoreFoundation.h>
