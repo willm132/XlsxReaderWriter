@@ -22,6 +22,7 @@ let package = Package(
             exclude: ["minizip/LICENSE"],
             publicHeadersPath: ".",
             cSettings: [
+                .unsafeFlags(["-include", "MinizipPrefix.h"]),
                 .headerSearchPath("XlsxReaderWriter"),
                 .headerSearchPath("."),
                 .headerSearchPath("minizip"),
