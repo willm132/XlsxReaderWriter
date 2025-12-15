@@ -9,7 +9,7 @@
    See the accompanying LICENSE file for the full text of the license.
 */
 #define HAVE_ZLIB
-
+#include "MinizipPrefix.h"
 #include "mz.h"
 #include "mz_crypt.h"
 #include "mz_os.h"
