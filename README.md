@@ -1,5 +1,5 @@
 # XlsxReaderWriter
-***THIS REMOVES THE MINIZIP DEPENDENCIES***
+***THIS REMOVES THE MINIZIP DEPENDENCIES SO YOU CAN USE SPM BRANCH WITH [XLSXWRITER](https://github.com/damuellen/xlsxwriter.swift)***
 
 [![Build Status](https://travis-ci.org/charlymr/XlsxReaderWriter.svg?branch=master)](https://travis-ci.org/charlymr/XlsxReaderWriter)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
