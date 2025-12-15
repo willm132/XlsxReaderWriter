@@ -1,4 +1,5 @@
 # XlsxReaderWriter
+***THIS REMOVES THE MINIZIP DEPENDENCIES***
 
 [![Build Status](https://travis-ci.org/charlymr/XlsxReaderWriter.svg?branch=master)](https://travis-ci.org/charlymr/XlsxReaderWriter)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
