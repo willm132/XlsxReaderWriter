@@ -11,7 +11,7 @@ XlsxReaderWriter is an Objective-C library for iPhone / iPad and Mac. It parses 
 
 Add the SPM Dependency to your project:
 ```
-https://github.com/charlymr/XlsxReaderWriter
+https://github.com/willm132/XlsxReaderWriter
 ```
 
 <strong>WARNING: Use from version 2.5.0</strong>
