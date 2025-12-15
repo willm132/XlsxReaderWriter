@@ -10,7 +10,7 @@
 */
 
 #define HAVE_ZLIB
-
+#include "MinizipPrefix.h"
 #include "mz.h"
 #include "mz_crypt.h"
 
